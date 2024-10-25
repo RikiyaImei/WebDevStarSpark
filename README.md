@@ -11,6 +11,8 @@
     <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
 </h3>
 
+<h1>[Contact me!](https://t.me/@CryptoGround888)</h1>
+
 ### 🛠 Tech Stack
 - 💻 
 	![asp.net](https://img.shields.io/badge/-ASP.net-333333?style=flat&logo=dotnet)
